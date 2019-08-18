@@ -1,0 +1,26 @@
+Hello and welcome to my Github repository! 
+
+The purpose of this portfolio is to demonstrate my abilities with a variety
+of data-science tools such as sklearn, numpy, seaborn, tensorflow, and others. 
+
+Currently, I'm going through all of the major machine learning algorithms and
+demonstrating my knowledge and ability to apply these tools to relevent sets of data. 
+
+I will also be posting my more advanced projects related to my hobbies: Quantitative Finance
+and Physics Simulations once I organize the code for readability. 
+
+I actively update this portfolio with work that I do throughout my college and professional
+carrer. I also reccomend that you check out my work on binary star accretion disk imaging, which
+is my most recent project. This project was very challenging and I learned some great skills throughout its 
+development. I am currently writing my final thesis on that code. The most recent drafts of each chapter
+be found under 'Thesis Chapters' in the eclipse mapping repository. 
+
+My ultimate goal is to get a PhD in Mathematical Physics and do academic research.
+However, I've come to love data science as a career in the meantime and intend to pursue
+it along with my physics research. 
+
+If you would like to contribute to any of my projects, feel free to contact me! I really
+enjoy collaborating with others and would alway appreciate an extra set of eyes. 
+My updated contact info is on my resume in this repository.
+
+Thankyou!
